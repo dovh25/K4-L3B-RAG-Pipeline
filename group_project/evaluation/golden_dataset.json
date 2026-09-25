@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Hộ kinh doanh do những ai có quyền đăng ký thành lập và chịu trách nhiệm tài sản như thế nào?",
+    "expected_answer": "Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và phải chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ.",
+    "expected_context": "Nghị định 01/2021/NĐ-CP Điều 79 quy định hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ."
+  },
+  {
+    "question": "Một cá nhân có được phép đăng ký nhiều hộ kinh doanh trên toàn quốc không?",
+    "expected_answer": "Không. Mỗi cá nhân, thành viên hộ gia đình chỉ được đăng ký một hộ kinh doanh duy nhất trong phạm vi toàn quốc.",
+    "expected_context": "Khoản 2 Điều 79 và Khoản 2 Điều 80 Nghị định 01/2021/NĐ-CP nêu rõ cá nhân, thành viên hộ gia đình chỉ được đăng ký một hộ kinh doanh trong phạm vi toàn quốc."
+  },
+  {
+    "question": "Hộ kinh doanh có được phép hoạt động kinh doanh tại nhiều địa điểm không?",
+    "expected_answer": "Có. Hộ kinh doanh được hoạt động tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở và thông báo cho cơ quan thuế, quản lý thị trường nơi có các địa điểm còn lại.",
+    "expected_context": "Điều 86 Nghị định 01/2021/NĐ-CP quy định một hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh và thông báo cho Cơ quan quản lý thuế, quản lý thị trường đối với các địa điểm còn lại."
+  },
+  {
+    "question": "Thời hạn cấp Giấy chứng nhận đăng ký hộ kinh doanh là bao nhiêu ngày kể từ khi nhận đủ hồ sơ hợp lệ?",
+    "expected_answer": "Thời hạn là 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.",
+    "expected_context": "Khoản 3 Điều 87 Nghị định 01/2021/NĐ-CP quy định Cơ quan đăng ký kinh doanh cấp huyện cấp Giấy chứng nhận đăng ký hộ kinh doanh cho hộ kinh doanh trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ."
+  },
+  {
+    "question": "Quy tắc đặt tên cho hộ kinh doanh gồm những thành tố nào và bị cấm những từ ngữ gì?",
+    "expected_answer": "Tên hộ kinh doanh gồm cụm từ 'Hộ kinh doanh' và tên riêng. Không được sử dụng các cụm từ 'công ty', 'doanh nghiệp' và không được trùng tên trong phạm vi cấp huyện.",
+    "expected_context": "Điều 88 Nghị định 01/2021/NĐ-CP quy định tên gồm cụm từ 'Hộ kinh doanh' và tên riêng; không được dùng các cụm từ 'công ty', 'doanh nghiệp' để đặt tên và không được trùng với tên hộ kinh doanh đã đăng ký trong huyện."
+  },
+  {
+    "question": "Trường hợp tạm ngừng kinh doanh từ 30 ngày trở lên, hộ kinh doanh phải thông báo trước bao lâu?",
+    "expected_answer": "Hộ kinh doanh phải thông báo bằng văn bản cho Cơ quan đăng ký kinh doanh cấp huyện và Cơ quan thuế quản lý ít nhất 03 ngày làm việc trước khi tạm ngừng.",
+    "expected_context": "Khoản 1 Điều 91 Nghị định 01/2021/NĐ-CP quy định tạm ngừng từ 30 ngày trở lên phải thông báo ít nhất 03 ngày làm việc trước khi tạm ngừng kinh doanh."
+  },
+  {
+    "question": "Mức doanh thu hàng năm từ bao nhiêu trở xuống thì hộ kinh doanh không phải nộp thuế GTGT và thuế TNCN?",
+    "expected_answer": "Hộ kinh doanh có doanh thu trong năm dương lịch từ 100 triệu đồng trở xuống thì thuộc trường hợp không phải nộp thuế GTGT và thuế TNCN.",
+    "expected_context": "Khoản 2 Điều 4 Thông tư 40/2021/TT-BTC quy định hộ kinh doanh có doanh thu từ hoạt động sản xuất, kinh doanh trong năm dương lịch từ 100 triệu đồng trở xuống thì không phải nộp thuế GTGT và không phải nộp thuế TNCN."
+  },
+  {
+    "question": "Tỷ lệ tính thuế GTGT và thuế TNCN đối với hoạt động phân phối, cung cấp hàng hóa của hộ kinh doanh là bao nhiêu?",
+    "expected_answer": "Tỷ lệ thuế GTGT là 1% và tỷ lệ thuế TNCN là 0,5% trên doanh thu (tổng cộng 1,5%).",
+    "expected_context": "Điểm a Khoản 3 Điều 10 Thông tư 40/2021/TT-BTC quy định hoạt động phân phối, cung cấp hàng hóa có tỷ lệ thuế GTGT là 1% và tỷ lệ thuế TNCN là 0,5%."
+  },
+  {
+    "question": "Tỷ lệ tính thuế trên doanh thu đối với dịch vụ, xây dựng không bao thầu nguyên vật liệu là bao nhiêu?",
+    "expected_answer": "Tỷ lệ thuế GTGT là 5% và tỷ lệ thuế TNCN là 2% trên doanh thu (tổng cộng 7%).",
+    "expected_context": "Điểm b Khoản 3 Điều 10 Thông tư 40/2021/TT-BTC quy định dịch vụ, xây dựng không bao thầu nguyên vật liệu có tỷ lệ thuế GTGT là 5% và tỷ lệ thuế TNCN là 2%."
+  },
+  {
+    "question": "Thời hạn nộp hồ sơ khai thuế khoán hàng năm của hộ kinh doanh là khi nào?",
+    "expected_answer": "Thời hạn nộp hồ sơ khai thuế đối với hộ khoán chậm nhất là ngày 15 tháng 12 của năm trước năm tính thuế.",
+    "expected_context": "Khoản 3 Điều 7 Thông tư 40/2021/TT-BTC quy định thời hạn nộp hồ sơ khai thuế đối với hộ khoán chậm nhất là ngày 15 tháng 12 của năm trước năm tính thuế."
+  },
+  {
+    "question": "Hộ kinh doanh nộp thuế theo phương pháp khoán có bắt buộc phải làm sổ sách kế toán không?",
+    "expected_answer": "Không bắt buộc. Hộ kinh doanh nộp thuế khoán không phải thực hiện chế độ kế toán nhưng được khuyến khích áp dụng nếu có nhu cầu.",
+    "expected_context": "Khoản 2 Điều 7 Thông tư 40/2021/TT-BTC quy định hộ khoán không phải thực hiện chế độ kế toán. Điều 2 Thông tư 88/2021/TT-BTC cũng quy định hộ khoán được khuyến khích áp dụng."
+  },
+  {
+    "question": "Hộ kinh doanh nộp thuế theo phương pháp kê khai phải lập bao nhiêu loại sổ kế toán theo Thông tư 88?",
+    "expected_answer": "Hộ kinh doanh theo phương pháp kê khai phải mở 7 loại sổ kế toán gồm: Sổ doanh thu (S1-HKD), Sổ vật liệu (S2-HKD), Sổ chi phí (S3-HKD), Sổ nghĩa vụ thuế (S4-HKD), Sổ thanh toán lương (S5-HKD), Sổ quỹ tiền mặt (S6-HKD) và Sổ tiền gửi ngân hàng (S7-HKD).",
+    "expected_context": "Khoản 2 Điều 5 Thông tư 88/2021/TT-BTC quy định hộ kinh doanh nộp thuế theo phương pháp kê khai phải mở 7 loại sổ kế toán từ mẫu S1-HKD đến S7-HKD."
+  },
+  {
+    "question": "Các chứng từ kế toán cơ bản được quy định cho hộ kinh doanh theo Thông tư 88 gồm những gì?",
+    "expected_answer": "Gồm Phiếu thu, Phiếu chi, Giấy báo ngân hàng, Phiếu nhập kho, Phiếu xuất kho, Bảng thanh toán tiền lương và Hóa đơn.",
+    "expected_context": "Khoản 3 Điều 4 Thông tư 88/2021/TT-BTC quy định biểu mẫu chứng từ kế toán áp dụng cho hộ kinh doanh gồm Phiếu thu, Phiếu chi, Giấy báo Nợ/Có ngân hàng, Phiếu nhập kho, Phiếu xuất kho, Bảng thanh toán tiền lương và Hóa đơn."
+  },
+  {
+    "question": "Nghị định 01/2021/NĐ-CP có quy định giới hạn số lượng lao động tối đa của hộ kinh doanh không?",
+    "expected_answer": "Không. Nghị định 01/2021/NĐ-CP đã bãi bỏ giới hạn dưới 10 lao động trước đây, cho phép hộ kinh doanh sử dụng số lượng lao động không hạn chế.",
+    "expected_context": "Nghị định 01/2021/NĐ-CP đã hoàn toàn bãi bỏ giới hạn dưới 10 lao động của Nghị định 78/2015/NĐ-CP, cho phép hộ kinh doanh thuê lao động không hạn chế số lượng."
+  },
+  {
+    "question": "Những mô hình kinh doanh bán lẻ nào cần áp dụng hóa đơn điện tử khởi tạo từ máy tính tiền?",
+    "expected_answer": "Các mô hình trực tiếp tới người tiêu dùng như trung tâm thương mại, siêu thị, ăn uống, nhà hàng, khách sạn, vui chơi giải trí và bán lẻ thuốc tân dược, vàng bạc.",
+    "expected_context": "Hóa đơn điện tử từ máy tính tiền áp dụng đối với các hộ kinh doanh bán lẻ hàng tiêu dùng, ăn uống, nhà hàng, khách sạn, vui chơi giải trí, thuốc tân dược trực tiếp đến người tiêu dùng."
+  }
+]

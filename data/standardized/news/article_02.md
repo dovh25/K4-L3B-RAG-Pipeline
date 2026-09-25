@@ -1,0 +1,38 @@
+# Các loại thuế hộ kinh doanh phải nộp và cách tính chi tiết
+
+**Source:** https://luatvietnam.vn/thue-phi/thue-ho-kinh-doanh-565-89689-article.html
+
+**Crawled:** 2026-09-25T10:40:43.589031
+
+---
+
+# Các loại thuế hộ kinh doanh phải nộp và cách tính chi tiết
+
+Khi đi vào hoạt động, hộ kinh doanh có nghĩa vụ tài chính với ngân sách nhà nước thông qua các sắc thuế cơ bản: Lệ phí môn bài, Thuế giá trị gia tăng (GTGT) và Thuế thu nhập cá nhân (TNCN) theo hướng dẫn tại Thông tư 40/2021/TT-BTC.
+
+## 1. Ngưỡng doanh thu miễn thuế
+Theo quy định tại Điều 4 Thông tư 40/2021/TT-BTC:
+- Hộ kinh doanh có doanh thu trong năm dương lịch từ 100 triệu đồng trở xuống thì không phải nộp thuế GTGT và thuế TNCN.
+- Nếu doanh thu trên 100 triệu đồng/năm, hộ kinh doanh phải nộp cả thuế GTGT, thuế TNCN và lệ phí môn bài.
+
+## 2. Lệ phí môn bài
+Mức thu lệ phí môn bài đối với hộ kinh doanh căn cứ vào doanh thu hàng năm:
+- Doanh thu trên 500 triệu đồng/năm: 1.000.000 đồng/năm.
+- Doanh thu từ trên 300 đến 500 triệu đồng/năm: 500.000 đồng/năm.
+- Doanh thu từ trên 100 đến 300 triệu đồng/năm: 300.000 đồng/năm.
+- Hộ kinh doanh mới thành lập được miễn lệ phí môn bài trong năm đầu tiên hoạt động.
+
+## 3. Cách tính thuế GTGT và thuế TNCN (Phương pháp khoán)
+Số thuế phải nộp được xác định theo công thức:
+- Thuế GTGT phải nộp = Doanh thu tính thuế GTGT x Tỷ lệ thuế GTGT
+- Thuế TNCN phải nộp = Doanh thu tính thuế TNCN x Tỷ lệ thuế TNCN
+
+Tỷ lệ phần trăm tính thuế trên doanh thu theo ngành nghề:
+- Phân phối, cung ứng hàng hóa (bán buôn, bán lẻ): GTGT 1%, TNCN 0,5% (Tổng 1,5%).
+- Dịch vụ, xây dựng không bao thầu nguyên vật liệu: GTGT 5%, TNCN 2% (Tổng 7%).
+- Dịch vụ lưu trú, ăn uống: GTGT 5%, TNCN 2% (Ăn uống có tiêu thụ hàng hóa kèm theo có thể tách hoặc tính 4,5%).
+- Sản xuất, vận tải, dịch vụ gắn với hàng hóa, xây dựng có bao thầu: GTGT 3%, TNCN 1,5% (Tổng 4,5%).
+
+## 4. Thời hạn nộp hồ sơ và nộp thuế khoán
+- Thời hạn nộp hồ sơ khai thuế khoán hàng năm chậm nhất là ngày 15 tháng 12 của năm trước.
+- Thời hạn nộp tiền thuế khoán: Chậm nhất là ngày cuối cùng của tháng đối với nộp theo tháng, hoặc ngày cuối cùng của quý đối với nộp theo quý.
